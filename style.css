@@ -107,7 +107,15 @@ main article {
 
 main p {
   line-height: 1.75;
-  margin-bottom: 48px;;
+  margin-bottom: 48px;
+}
+article p:first-of-type::first-letter {
+  margin-right: 15px;
+  font-size: 100px;
+  float: left;
+  font-family: serif;
+  line-height: 1;
+  
 }
 
 main > article img {
