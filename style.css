@@ -166,7 +166,7 @@ span.tooltip span {
   bottom: 120%;
   left: 50%;
   transform: translateX(-50%);
-  background-color: black;
+  background-color:black;
   color: white;
   padding: 8px 12px;
   border-radius: 8px; /* Add rounded corners here */
